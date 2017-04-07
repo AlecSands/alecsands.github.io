@@ -30,7 +30,7 @@ div.info {
   position: relative;
   top: 120px;
   left: 0px;
-  padding: 10px 0px 0px 30px;
+  padding: 10px 0px 30px 30px;
   z-index: 1;
 }
 
