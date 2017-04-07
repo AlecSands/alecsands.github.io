@@ -27,10 +27,12 @@ img {
 
 div.info {
   background: #f7f7f7;
+  width: 100%;
   position: relative;
   top: 120px;
   left: 0px;
   padding: 10px 0px 0px 30px
+  z-index: 999;
 }
 
 li, p {
