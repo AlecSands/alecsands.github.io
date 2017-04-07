@@ -8,7 +8,7 @@ div.title {
   position: fixed;
   width: 100%;
   height: 100px
-  z-index: 99;
+  z-index: 1;
   top: 0px;
 }
 
@@ -31,7 +31,6 @@ div.info {
   top: 120px;
   left: 0px;
   padding: 10px 0px 0px 30px
-  z-index: 1;
 }
 
 li, p {
