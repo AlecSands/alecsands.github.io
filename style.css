@@ -3,7 +3,10 @@
   background: #f7f7f7;
 }
 
+.contact li {
+  display: inline-block;
+}
+
 li, p {
   color: #727272;
-  display: inline-block;
 }
