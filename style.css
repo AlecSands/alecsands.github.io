@@ -1,6 +1,5 @@
 * {
   font-family: "Crimson Text", serif;
-  background: #f7f7f7;
 }
 
 .title {
@@ -12,6 +11,10 @@
 .contact li {
   display: inline-block;
   margin: 0px 20px;
+}
+
+.info {
+  background: #f7f7f7;
 }
 
 li, p {
