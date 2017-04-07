@@ -2,7 +2,7 @@
   font-family: "Crimson Text", serif;
 }
 
-.title {
+div.title {
   text-align: center;
   background: #ffffff;
   position: fixed;
@@ -10,18 +10,15 @@
   z-index: 1;
 }  
 
-.start {
-  margin: 500px 0px 0px 0px;
-}
-  
 .contact li {
   display: inline-block;
   margin: 0px 20px;
 }
 
-.info {
+div.info {
   background: #f7f7f7;
   position: relative;
+  top: 200px;
 }
 
 li, p {
