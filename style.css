@@ -28,6 +28,8 @@ li, p {
 
 .data {
   display: block;
+  text-align: left;
+  left: 10px;
 }
 
 h2 {
