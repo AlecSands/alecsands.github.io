@@ -28,7 +28,7 @@ li, p {
   color: #727272;
 }
 
-li.data {
+.data li {
   display: inline-block;
   text-align: left;
   left: 10px;
