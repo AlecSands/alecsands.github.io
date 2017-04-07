@@ -5,11 +5,12 @@
 
 .title {
   text-align: center;
+  background: #ffffff;
 }  
   
 .contact li {
   display: inline-block;
-  margin: 20px;
+  margin: 0px 20px;
 }
 
 li, p {
