@@ -6,6 +6,7 @@
   text-align: center;
   background: #ffffff;
   position: fixed;
+  width: 100%;
 }  
   
 .contact li {
@@ -15,6 +16,7 @@
 
 .info {
   background: #f7f7f7;
+  position: relative;
 }
 
 li, p {
