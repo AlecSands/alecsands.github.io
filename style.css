@@ -9,6 +9,10 @@
   width: 100%;
   z-index: 1;
 }  
+
+.start {
+  top: 500px;
+}
   
 .contact li {
   display: inline-block;
