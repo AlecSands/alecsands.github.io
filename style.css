@@ -25,3 +25,7 @@ div.info {
 li, p {
   color: #727272;
 }
+
+.data {
+  display: block;
+}
