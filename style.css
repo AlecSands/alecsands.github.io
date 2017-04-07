@@ -3,6 +3,10 @@
   background: #f7f7f7;
 }
 
+.title {
+  text-align: center;
+}  
+  
 .contact li {
   display: inline-block;
   margin: 20px;
