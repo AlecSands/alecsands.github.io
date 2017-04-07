@@ -29,3 +29,7 @@ li, p {
 .data {
   display: block;
 }
+
+h2 {
+  text-transform: uppercase;
+}
