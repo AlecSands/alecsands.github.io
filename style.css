@@ -5,4 +5,5 @@
 
 li, p {
   color: #727272;
+  display: inline-block;
 }
