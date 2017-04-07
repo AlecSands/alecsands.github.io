@@ -29,7 +29,7 @@ li, p {
 }
 
 .data li {
-  display: inline-block;
+  display: block;
   text-align: left;
   left: 10px;
 }
