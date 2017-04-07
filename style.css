@@ -9,7 +9,12 @@ div.title {
   width: 100%;
   z-index: 1;
   top: 0px;
-}  
+}
+
+img {
+  position: fixed;
+  right: 0px;
+}
 
 .contact li {
   display: inline-block;
