@@ -20,7 +20,8 @@ div.info {
   background: #f7f7f7;
   position: relative;
   top: 120px;
-  left: 50px;
+  left: 0px;
+  padding: 10px 0px 0px 30px
 }
 
 li, p {
