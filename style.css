@@ -8,6 +8,7 @@ div.title {
   position: fixed;
   width: 100%;
   z-index: 1;
+  top: 0px;
 }  
 
 .contact li {
@@ -18,7 +19,7 @@ div.title {
 div.info {
   background: #f7f7f7;
   position: relative;
-  top: 200px;
+  top: 120px;
 }
 
 li, p {
