@@ -5,6 +5,7 @@
 
 .contact li {
   display: inline-block;
+  margin: 20px;
 }
 
 li, p {
